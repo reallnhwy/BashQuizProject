@@ -1,0 +1,5 @@
+c : pwd
+c : ls
+d : mkdir
+c : man
+a : rm

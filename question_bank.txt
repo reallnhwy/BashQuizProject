@@ -1,0 +1,25 @@
+Q1) What command is used to display the current directory in Linux?
+a. dir
+b. showdir
+c. pwd
+d. ls
+Q2) Which command is used to list all files and directories in a directory in Linux?
+a. list
+b. dir
+c. ls
+d. show
+Q3) Which command is used to create a new directory in Linux?
+a. createdir
+b. makedir
+c. newdir
+d. mkdir
+Q4) What command is used to display the manual page of a command in Linux?
+a. help
+b. info
+c. man
+d. guide
+Q5) Which command is used to delete a file in Linux?
+a. rm
+b. delete
+c. del
+d. erase
